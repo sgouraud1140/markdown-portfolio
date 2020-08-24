@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![World of Warcraft Logo](http://www.ccasa.org/wp-content/uploads/2014/09/World-Of-Warcraft-Logo.jpg)
